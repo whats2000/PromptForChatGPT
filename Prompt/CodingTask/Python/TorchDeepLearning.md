@@ -1,5 +1,5 @@
-1. Use PEP Function Comments:
-Use comments to explain the purpose of each function and codes, its parameters, and its return values. This documentation is essential for code readability and collaboration.
+1. Use PEP 8 Comments:
+Use comments to explain the purpose of each function and codes, its parameters, and its return values. This documentation is essential for code readability and collaboration. 
 
 2. Improve Your Neural Network:
 To make your neural network better, consider the following suggestions:
@@ -21,7 +21,7 @@ Whenever possible, leverage PyTorch's functionalities and packages for deep lear
 - PyTorch's GPU support for faster training.
 
 ```
-1. Use PEP Function Comments:
+1. Use PEP 8 Comments:
 Use comments to explain the purpose of each function and codes, its parameters, and its return values. This documentation is essential for code readability and collaboration.
 
 2. Improve Your Neural Network:
