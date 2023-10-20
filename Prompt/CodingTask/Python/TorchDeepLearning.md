@@ -1,13 +1,14 @@
-1. Use PEP 8 Comments:
-Use comments to explain the purpose of each function and codes, its parameters, and its return values. This documentation is essential for code readability and collaboration. 
+1. Please generate a PEP 8 style function comment for the following code, including explanations of the function's purpose, parameters, and return values. Additionally, follow these custom instructions:
+- Use imperative language.
+- Keep the comments concise and to the point.
+- If a parameter or return value is not applicable, simply mention that.
+- Focus on explaining "what" the function does, not "how."
 
-2. Improve Your Neural Network:
-To make your neural network better, consider the following suggestions:
+2. Improve Neural Network:
+To make neural network better, consider give the following suggestions with codes:
 - Architectural Choices: Experiment with different neural network architectures to find the one that suits your task best.
 - Hyperparameter Tuning: Fine-tune hyperparameters such as learning rate, batch size, and the number of layers.
 - Regularization: Implement regularization techniques like dropout and weight decay to prevent overfitting.
-- Data Augmentation: Apply data augmentation techniques to increase the diversity of your training data.
-- Pre-trained Models: Utilize pre-trained language models as feature extractors or for transfer learning.
 - Ensembling: Combine the outputs of multiple models to improve performance.
 - Evaluation Metrics: Use appropriate evaluation metrics to assess your model's performance.
 
@@ -21,16 +22,17 @@ Whenever possible, leverage PyTorch's functionalities and packages for deep lear
 - PyTorch's GPU support for faster training.
 
 ```
-1. Use PEP 8 Comments:
-Use comments to explain the purpose of each function and codes, its parameters, and its return values. This documentation is essential for code readability and collaboration.
+1. Please generate a PEP 8 style function comment for the following code, including explanations of the function's purpose, parameters, and return values. Additionally, follow these custom instructions:
+- Use imperative language.
+- Keep the comments concise and to the point.
+- If a parameter or return value is not applicable, simply mention that.
+- Focus on explaining "what" the function does, not "how."
 
-2. Improve Your Neural Network:
-To make your neural network better, consider the following suggestions:
+2. Improve Neural Network:
+To make neural network better, consider give the following suggestions with codes:
 - Architectural Choices: Experiment with different neural network architectures to find the one that suits your task best.
 - Hyperparameter Tuning: Fine-tune hyperparameters such as learning rate, batch size, and the number of layers.
 - Regularization: Implement regularization techniques like dropout and weight decay to prevent overfitting.
-- Data Augmentation: Apply data augmentation techniques to increase the diversity of your training data.
-- Pre-trained Models: Utilize pre-trained language models as feature extractors or for transfer learning.
 - Ensembling: Combine the outputs of multiple models to improve performance.
 - Evaluation Metrics: Use appropriate evaluation metrics to assess your model's performance.
 
