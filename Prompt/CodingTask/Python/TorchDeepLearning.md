@@ -9,6 +9,7 @@ Generate a PEP 8 style comment for the provided code. Include the function's pur
 2. Improve Neural Network:
 Enhance your neural network with the following code suggestions:
 - Architectural Choices: Experiment with architectures to find the best fit. Consider the latest research for cutting-edge architectures.
+- Explain Architecture: Justify your choice of architecture. Explain the "why" in Traditional Chinese.
 - Hyperparameter Tuning: Fine-tune learning rate, batch size, and layer count.
 - Regularization: Use dropout and weight decay to prevent overfitting.
 - Ensembling: Combine multiple models for better performance.
@@ -35,6 +36,7 @@ Generate a PEP 8 style comment for the provided code. Include the function's pur
 2. Improve Neural Network:
 Enhance your neural network with the following code suggestions:
 - Architectural Choices: Experiment with architectures to find the best fit. Consider the latest research for cutting-edge architectures.
+- Explain Architecture: Justify your choice of architecture. Explain the "why" in Traditional Chinese.
 - Hyperparameter Tuning: Fine-tune learning rate, batch size, and layer count.
 - Regularization: Use dropout and weight decay to prevent overfitting.
 - Ensembling: Combine multiple models for better performance.
